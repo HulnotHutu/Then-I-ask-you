@@ -115,12 +115,13 @@ workbench/
 
 ## 进度
 
-- [x] `knowledge-summary` — 通用 txt 文档的认知三段式学习
-- [x] `reverse-role` — 反客为主：AI 扮演作者为设计辩护
-- [x] `brainstorm` — 头脑风暴：AI 坚守论点接受反驳
-- [x] `socratic` — 苏格拉底式诘问：只提问不直接给答案
-- [x] `command-summary` — Tool 手册的学习摘要（3 层渐进：速查 → 理解 → 避坑）
-- [x] `syscall-summary` — Syscall 手册的学习摘要（3 层渐进 + 内核视角）
+- [x] `know-init` — 对长文档或者文章进行快速读取提炼, 总结提炼为 knowledge.md
+- [x] `know-sum` — 对 knowledge.md 转换为人能接受的文档 answer.md
+- [x] `know-qa` — 对用户认知进行观念修正
+- [ ] `brainstorm` — 头脑风暴：AI 坚守论点接受反驳
+- [ ] `socratic` — 苏格拉底式诘问：只提问不直接给答案
+- [ ] `command-summary` — Tool 手册的学习摘要（3 层渐进：速查 → 理解 → 避坑）
+- [ ] `syscall-summary` — Syscall 手册的学习摘要（3 层渐进 + 内核视角）
 
 ## 致谢
 
